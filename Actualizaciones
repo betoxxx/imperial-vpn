@@ -15,7 +15,7 @@
     {
       "Name": "PARAGUAY ILIMITADO",
       "TYPE": "premium",
-      "FLAG": "us.png",
+      "FLAG": "py.png",
       "ServerIP": "52.85.213.227",
       "CheckUser": "",
       "ServerPort": "22",
@@ -27,7 +27,7 @@
   "Networks": [
     {
       "Name": "💙TIGO [SSL+PAY 1]",
-      "FLAG": "tigo",
+      "FLAG": "tim",
       "Payload": "GET / HTTP/1.1\r\nHost: d1wfgypjrac4np.cloudfront.net\r\nConnection: Upgrade\r\nUpgrade: websocket\r\n\r\n",
       "SNI": "52.85.213.227",
       "TlsIP": "52.85.213.227",
@@ -37,7 +37,7 @@
     },
     {
       "Name": "💙TIGO [SSL+PAY 2]",
-      "FLAG": "tigo",
+      "FLAG": "tim",
       "Payload": "GET / HTTP/1.1\r\nHost: d23ox1jnvs5bzr.cloudfront.net\r\nConnection: Upgrade\r\nUpgrade: websocket\r\n\r\n",
       "SNI": "52.85.213.227",
       "TlsIP": "52.85.213.227",
@@ -47,7 +47,7 @@
     },
     {
       "Name": "💙TIGO [SSL+PAY 3]",
-      "FLAG": "tigo",
+      "FLAG": "tim",
       "Payload": "GET / HTTP/1.1\r\nHost: d3bxawbrilxdpo.cloudfront.net\r\nConnection: Upgrade\r\nUpgrade: websocket\r\n\r\n",
       "SNI": "52.85.213.227",
       "TlsIP": "52.85.213.227",
